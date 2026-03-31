@@ -1,7 +1,7 @@
 # Hi, I'm Ayaan 👋
 
-I'm a backend-focused developer who loves building things and learning how real systems work.  
-Right now I'm studying Linux, backend fundamentals, and Java while working on small projects to grow my skills.
+I'm a 14-year-old backend-focused developer   
+Right now I'm studying Linux, backend fundamentals, and Java while working on small projects to hone my skills.
 
 ## 🔧 Technologies & Tools
 - Java  
@@ -12,8 +12,7 @@ Right now I'm studying Linux, backend fundamentals, and Java while working on sm
 
 ## 🚀 What I'm Working On
 - Learning backend development fundamentals  
-- Building small apps to practice real-world concepts  
-- Improving my understanding of Linux and the command line  
+- Planning a long-term app project 
 
 ## 📫 Contact
 Feel free to reach out:  
